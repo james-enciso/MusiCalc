@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MusiCalc' target in the 'MusiCalc' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

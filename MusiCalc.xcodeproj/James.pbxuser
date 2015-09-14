@@ -1,0 +1,164 @@
+// !$*UTF8*$!
+{
+	1A975C251BA6ABFC00EC80A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* MusiCalcAppDelegate.m */;
+		name = "MusiCalcAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 1070;
+		rType = 0;
+		vrLen = 665;
+		vrLoc = 182;
+	};
+	1A9F90231BA6B1310025FFF6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* MusiCalcAppDelegate.h */;
+		name = "MusiCalcAppDelegate.h: 27";
+		rLen = 16;
+		rLoc = 646;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 338;
+	};
+	1A9F90241BA6B1310025FFF6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* MusiCalcAppDelegate.m */;
+		name = "MusiCalcAppDelegate.m: 8";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 341;
+		vrLoc = 336;
+	};
+	1A9F90701BA6B3780025FFF6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* MusiCalcAppDelegate.m */;
+		name = "MusiCalcAppDelegate.m: 42";
+		rLen = 0;
+		rLoc = 957;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 645;
+	};
+	1A9F90711BA6B3780025FFF6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* MusiCalcAppDelegate.m */;
+		name = "MusiCalcAppDelegate.m: 44";
+		rLen = 0;
+		rLoc = 1070;
+		rType = 0;
+		vrLen = 896;
+		vrLoc = 182;
+	};
+	1AAEA8A4147750A0004BD6FE /* MusiCalc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MusiCalc;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1AAEA8B5147750CE004BD6FE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1AAEA8B6147750CE004BD6FE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	256AC3D80F4B6AC300CF3369 /* MusiCalcAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 416}}";
+			sepNavSelRange = "{646, 16}";
+			sepNavVisRange = "{338, 366}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* MusiCalcAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 624}}";
+			sepNavSelRange = "{1070, 0}";
+			sepNavVisRange = "{182, 896}";
+			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1AAEA8A4147750A0004BD6FE /* MusiCalc */;
+		activeTarget = 8D1107260486CEB800E47090 /* MusiCalc */;
+		codeSenseManager = 1AAEA8B6147750CE004BD6FE /* Code sense */;
+		executables = (
+			1AAEA8A4147750A0004BD6FE /* MusiCalc */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 463908998;
+			PBXWorkspaceStateSaveDate = 463908998;
+		};
+		perUserProjectItems = {
+			1A975C251BA6ABFC00EC80A5 /* PBXTextBookmark */ = 1A975C251BA6ABFC00EC80A5 /* PBXTextBookmark */;
+			1A9F90231BA6B1310025FFF6 /* PBXTextBookmark */ = 1A9F90231BA6B1310025FFF6 /* PBXTextBookmark */;
+			1A9F90241BA6B1310025FFF6 /* PBXTextBookmark */ = 1A9F90241BA6B1310025FFF6 /* PBXTextBookmark */;
+			1A9F90701BA6B3780025FFF6 /* PBXTextBookmark */ = 1A9F90701BA6B3780025FFF6 /* PBXTextBookmark */;
+			1A9F90711BA6B3780025FFF6 /* PBXTextBookmark */ = 1A9F90711BA6B3780025FFF6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1AAEA8B5147750CE004BD6FE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* MusiCalc */ = {
+		activeExec = 0;
+		executables = (
+			1AAEA8A4147750A0004BD6FE /* MusiCalc */,
+		);
+	};
+}
